@@ -1,3 +1,23 @@
-.form-container {
-  background-color:#009688;
+body {
+  background-color: #80cbc4;
+}
+.subject-icon {
+  width:100%;
+  height:250px;
+}
+
+@media screen and (max-width:767px) {
+  .icon-separator {
+    margin-top:10%;
+  }
+}
+
+.separator {
+  margin:2%;
+}
+
+.jumbotron{
+  background-color: silver;
+  border-style: solid;
+  border-color: green;
 }
